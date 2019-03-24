@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="byd_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.yufz.bydweather.db.Province" />
+        <mapping class="com.yufz.bydweather.db.City" />
+        <mapping class="com.yufz.bydweather.db.County" />
+    </list>
+
+</litepal>
